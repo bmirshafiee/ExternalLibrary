@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntroductionLibrary</string>
+    <string name="button_one_string">toast one</string>
+</resources>
